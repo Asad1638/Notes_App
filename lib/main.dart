@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter ',
+      title: 'Flutter F12 ',
       theme: ThemeData(
      brightness: Brightness.dark,
         useMaterial3: true,
