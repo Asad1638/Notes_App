@@ -14,7 +14,7 @@ void main()async {
   await Hive.openBox('Notes');
   runApp(const MyApp());
   
-
+  
 }
 
 class MyApp extends StatelessWidget {
@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter ',
       theme: ThemeData(
      brightness: Brightness.dark,
         useMaterial3: true,
