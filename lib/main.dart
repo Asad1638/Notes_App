@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Notes_App',
+      title: 'Notes_App_hive',
       theme: ThemeData(
      brightness: Brightness.dark,
         useMaterial3: true,
